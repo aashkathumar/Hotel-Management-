@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1623870261 source:c:\users\aashk\documents\semester 2\ds project\hotelmanagement_202001205_202001457\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+	<string.h>
+	<fstream>
+
+1624372894 source:c:\users\aashk\desktop\hotelmanagement_202001205_202001457\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+	<string.h>
+	<fstream>
+
+1624372894 source:c:\users\aashk\documents\semester 2\data structures\hotelmanagement_202001205_202001457\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+	<string.h>
+	<fstream>
+
+1624372894 source:c:\users\aashk\documents\college\semester 2\data structures\hotelmanagement_202001205_202001457\the project\main.cpp
+	<iostream>
+	<conio.h>
+	<stdio.h>
+	<stdlib.h>
+	<dos.h>
+	<string.h>
+	<fstream>
+
